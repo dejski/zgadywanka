@@ -4,7 +4,7 @@ import { Component } from '@angular/core'
   selector: 'app-root',
   template: `
   <div class="container">
-      <h2>Zgadnij numer !</h2>
+      <h2>Zgadnij numer !!!</h2>
         <div class="card bg-light mb-3">
            <div class="card-body">
               <p class="card-text">Zgadnj wylosowany numer między 1 a 1000.</p>
